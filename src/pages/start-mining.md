@@ -7,21 +7,21 @@ duration: 10 minutes
 tags:
   - tutorial
 images:
-  large: /images/pages/mining.svg
-  sm: /images/pages/mining-sm.svg
+  large: /images/pages/start-mining.svg
+  sm: /images/pages/start-mining-sm.svg
 ---
 
 ## Introduction
 
-Make sure you've followed the [Running testnet node](/stacks-blockchain/running-testnet-node) tutorial. Once completed it's only a few more steps to run a proof-of-burn miner on the testnet.
+Make sure you've followed the [Running testnet node](/understand-stacks/running-testnet-node) tutorial. Once completed it's only a few more steps to run a proof-of-burn miner on the testnet.
 
 [@page-reference | inline]
-| /stacks-blockchain/running-testnet-node
+| /understand-stacks/running-testnet-node
 
 If you want to learn more about the technical details of minig, please review the mining guide:
 
 [@page-reference | inline]
-| /stacks-blockchain/mining
+| /understand-stacks/mining
 
 ## Running a miner
 
@@ -127,7 +127,7 @@ For a full reference of subcommands and configuration options used by `stacks-no
 To read more about the technical details of mining on the Stacks 2.0 network, have a look at the minig guide:
 
 [@page-reference | inline]
-| /stacks-blockchain/mining
+| /understand-stacks/mining
 
 ### Enable debug logging
 
