@@ -12,11 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set Node Version
-<<<<<<< HEAD
         uses: actions/setup-node@v1
-=======
-        uses: actions/setup-node@v1.4.4
->>>>>>> chore: fix build error
         with:
           node-version: '14.x'
       - name: Install deps
