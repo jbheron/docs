@@ -63,6 +63,8 @@ import {
   TransactionVersion,
 } from '@stacks/transactions';
 
+>>>>>>> master
+
 import { StackingClient } from '@stacks/stacking';
 
 import { StacksTestnet } from '@stacks/network';

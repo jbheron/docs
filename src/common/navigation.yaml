@@ -6,6 +6,7 @@ sections:
         pages:
           - path: /overview
           - path: /principals
+          - path: /clarity-values
         sections:
           - title: Tutorials
             pages:
@@ -50,6 +51,7 @@ sections:
           - path: /overview
           - path: /testnet
           - path: /proof-of-transfer
+          - path: /mining
           - path: /accounts
           - path: /transactions
           - path: /network
